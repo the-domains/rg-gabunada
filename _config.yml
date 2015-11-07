@@ -1,0 +1,23 @@
+name: Rg Gabunada
+favicon: null
+layout_spectrum: 0.44811263773590326
+typography_spectrum: 0.18500572512857616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5853755387943238
+  lightness: 0.02544915722683072
+  saturation: 0.03230928583070636
+  rhythmicContrast: 0.6498896162956953
+purpose: []
