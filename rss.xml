@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Rg Gabunada]]></title>
         <description><![CDATA[Rg Gabunada]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rg-gabunada/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 02:59:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 Nov 2015 03:05:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rg-gabunada/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The future is now]]></title>
+            <description><![CDATA[<article><h1>The future is now</h1><p>The new breed of creatives</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/463cab14-6d0e-498e-868b-9ded8c57e084.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rg-gabunada/the-future-is-now/index.html</link>
+            <guid isPermaLink="false">e4a5479a-9cb3-4795-aa60-d698673eb0bf</guid>
+            <pubDate>Sat, 07 Nov 2015 03:05:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Flowers]]></title>
             <description><![CDATA[<article><h1>Flowers</h1><p>Flower Watercolors </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb82741-f2cd-4dd8-893a-6e205f826f3b.jpg"></article>]]></description>
-            <link>undefinedflowers/index.html</link>
+            <link>https://thegrid.ai/rg-gabunada/flowers/index.html</link>
             <guid isPermaLink="false">76740932-4bfd-4ffd-91de-969d28337c94</guid>
             <pubDate>Sat, 07 Nov 2015 02:59:22 GMT</pubDate>
         </item>
